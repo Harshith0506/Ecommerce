@@ -1,10 +1,10 @@
 import './App.css';
-import SearchBar from './Components/molecules/SearchBar';
+import HomePage from './Components/pages/HomePage';
 
 function App() {
   return (
     <div>
-      <SearchBar />
+      <HomePage />
     </div>
   );
 }

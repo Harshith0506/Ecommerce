@@ -6,7 +6,7 @@ import Input from "../atoms/Input";
 
 const SearchBar = () => {
   return (
-    <div className="flex space-x-4 mt-5 justify-end mr-4">
+    <div className="flex space-x-4 items-center justify-end mr-4">
       <div className="-mt-1 px-2 ml-4 py-1 space-x-2 flex items-center justify-between rounded-md  ">
         <div className="flex pointer-events-none items-center inset-y-0">
           <IconStories.SearchIcon />
